@@ -8,9 +8,9 @@ tags: [Experiment]
 pin: True
 --- 
 
-It was evening of 30th july 2026, I had watched the documentary *The Social Dilemma* on Netflix and was left with curious thought: "Is it really that damaging?". I decided that I should hop on to Instagram since I had never used the platform before and see for myself what the hype is all about. I intially aimed of using it for 30 days and if it was not useful, I would delete the account. The platform was so engaging that I ended up using it for 46 days before finally deleting the account.
+It was evening of 30th july 2026, I had watched the documentary *The Social Dilemma* on Netflix and was left with a curious thought: "Is it really that damaging?". I decided that I should hop on to Instagram since I had never used the platform before and see for myself what the hype is all about. I initially aimed of using it for 30 days and if it was not useful, I would delete the account. The platform was so engaging that I ended up using it for 46 days before finally deleting the account.
 
-The app was never consumer focused, it was designed to maximize engagement and attention. Though there are other advantages such as actively connecting with your long lost peers, friends and distant relatives, the cons outweight the pros by a significant margin. Below are some of my key observations during this phase.
+The app was never consumer focused, it was designed to maximize engagement and attention. Though there are other advantages such as actively connecting with your long lost peers, friends and distant relatives, the cons outweigh the pros by a significant margin. Below are some of my key observations during this phase.
 
 ---
 
@@ -23,7 +23,7 @@ After you watch the first 15 to 25 reels,the algorithm breaks the user's curated
 A majority of short form videos usually lacks content. It relies entirely on external stimulation triggers, a typical high-tempo Phonk audio or trending audio blocks to mask the absence of real value. Stripped of the audio track, the content collapses.
 
 ### 3. The Withdrawal Spike
-Lets say you stopping engaging with the platform for a few days due to some important work. The platform is built in such an engaging way that when you log back on (for me it was day 4), you would recieve a highly curated feed of content that would make you hit your peak screen-time on that app.
+Lets say you stop engaging with the platform for a few days due to some important work. The platform is built in such an engaging way that when you log back on (for me it was day 4), you would receive a highly curated feed of content that would make you hit your peak screen-time on that app.
 
 #### 4. Zero-Retention  
 Try recalling the last 5th video you had watched on the platform. You can't, because the content is designed to be consumed and forgotten. Only the engagement is maximized, not the retention factor which results in your time being wasted without any value addition.
@@ -74,4 +74,4 @@ To have a faith that you would overcome the addiction of a social media platform
 
 This whole post was my opinion and my personal experience, never imposing any kind of bias on the reader. 
 
-Thanks for reading till till end, until next time, stay safe and happy learning !
+Thanks for reading till the end, until next time, stay safe and happy learning !
