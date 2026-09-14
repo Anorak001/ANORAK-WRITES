@@ -22,7 +22,7 @@ After you watch the first 15 to 25 reels,the algorithm breaks the user's curated
 #### 2. The Audio-Baiting
 A majority of short form videos usually lacks content. It relies entirely on external stimulation triggers, a typical high-tempo Phonk audio or trending audio blocks to mask the absence of real value. Stripped of the audio track, the content collapses.
 
-### 3. The Withdrawal Spike
+#### 3. The Withdrawal Spike
 Lets say you stop engaging with the platform for a few days due to some important work. The platform is built in such an engaging way that when you log back on (for me it was day 4), you would receive a highly curated feed of content that would make you hit your peak screen-time on that app.
 
 #### 4. Zero-Retention  
